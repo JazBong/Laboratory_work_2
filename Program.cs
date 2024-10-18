@@ -6,17 +6,6 @@
         {
             var mc = new MusicCatalog();
             mc.Work();
-
-
-
-
-
-
-
-
-
-
-            Console.WriteLine("\n\n\n\n\n\n\nThe End");
         }
     }
 }
